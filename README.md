@@ -12,3 +12,4 @@
 
 ![Dong Yuanwai's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherlockSunset&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SherlockSunset)
+![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=SherlockSunset&theme=dracula)
