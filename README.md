@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xiaohua</h1>
 <h3 align="center">A passionate Engineer&Reseacher on Computer Vision and Image processing.</h3>
 
-- 🔭 I’m currently working on **3D printing defects detection**
+- 🔭 I’m currently working on **3D printing defects detection**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
